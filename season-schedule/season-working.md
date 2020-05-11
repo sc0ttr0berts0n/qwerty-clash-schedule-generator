@@ -4,10 +4,10 @@
 
 ### Scratch Pack
 
--   S G05 [Theo & Catcher vs. Jengaleng & Jewish](xxx)
--   S G43 [Nerd Cruncher & Jewish vs. FieldDay & Calvin](xxx)
--   S G45 [FieldDay & Jewish vs. Catcher & Jengaleng](xxx)
--   S G46 [Catcher & Complx vs. Nerd Cruncher & Awod](xxx)
+-   [S] G05 [Theo & Catcher vs. Jengaleng & Jewish](xxx)
+-   [S] G43 [Nerd Cruncher & Jewish vs. FieldDay & Calvin](xxx)
+-   [S] G45 [FieldDay & Jewish vs. Catcher & Jengaleng](xxx)
+-   [S] G46 [Catcher & Complx vs. Nerd Cruncher & Awod](xxx)
 
 ## Active Packs
 
