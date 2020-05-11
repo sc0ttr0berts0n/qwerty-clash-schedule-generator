@@ -1,0 +1,7 @@
+{
+  "name": "diet-league-schedule-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Scott Robertson <scott.t.robertson@gmail.com>",
+  "license": "MIT"
+}
