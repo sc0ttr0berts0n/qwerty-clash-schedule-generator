@@ -14,9 +14,9 @@
 
 ### Pack 2
 
+-   [ ] G11 [Hoobsher & Jewish vs. Theo & Chck](xxx)
 -   [ ] G09 [Skat & Complx vs. Calvin & Dad](xxx)
 -   [ ] G10 [FieldDay & Awod vs. Dad & Jewish](xxx)
--   [ ] G11 [Hoobsher & Jewish vs. Theo & Chck](xxx)
 -   [ ] G12 [Nerd Cruncher & Dad vs. Beans & Catcher](xxx)
 -   [ ] G15 [Nerd Cruncher & Complx vs. Beans & Jewish](xxx)
 -   [ ] G35 [Lord Bro & Jewish vs. Calvin & Jengaleng](xxx)
