@@ -4,7 +4,7 @@
 
 ### Scratch Pack
 
--   [S] G43 [Nerd Cruncher & Jewish vs. FieldDay & Calvin](xxx)
+-   [x] G43 [Nerd Cruncher & Jewish vs. FieldDay & Calvin](NJ Wins)
 
 ## Active Packs
 
@@ -12,34 +12,23 @@
 
 ## Whole Season
 
-### Pack 2
-
--   [ ] G11 [Hoobsher & Jewish vs. Theo & Chck](xxx)
--   [ ] G09 [Skat & Complx vs. Calvin & Dad](xxx)
--   [ ] G10 [FieldDay & Awod vs. Dad & Jewish](xxx)
--   [ ] G12 [Nerd Cruncher & Dad vs. Beans & Catcher](xxx)
--   [ ] G15 [Nerd Cruncher & Complx vs. Beans & Jewish](xxx)
--   [ ] G35 [Lord Bro & Jewish vs. Calvin & Jengaleng](xxx)
--   [ ] G37 [Complx & Jewish vs. Dad & Jengaleng](xxx)
--   [ ] G40 [Catcher & Jewish vs. Skat & RetroFro](xxx)
-
 ### Pack 3
 
--   [ ] G17 [Nerd Cruncher & Beans vs. Calvin & Complx](xxx)
 -   [ ] G18 [Chck & Dad vs. Nerd Cruncher & Jengaleng](xxx)
 -   [ ] G19 [Jengaleng & Awod vs. Skat & Beans](xxx)
--   [ ] G21 [Catcher & Awod vs. Chck & Calvin](xxx)
--   [ ] G22 [Hoobsher & Theo vs. Lord Bro & Calvin](xxx)
 -   [ ] G23 [FieldDay & Lord Bro vs. Beans & RetroFro](xxx)
 -   [ ] G25 [Hoobsher & Complx vs. Theo & Jengaleng](xxx)
+-   [ ] G33 [Skat & Catcher vs. Lord Bro & Complx](xxx)
+-   [ ] G36 [RetroFro & Dad vs. Beans & Theo](xxx)
+-   [ ] G38 [Skat & Theo vs. Beans & FieldDay](xxx)
 -   [ ] G26 [FieldDay & Jengaleng vs. Nerd Cruncher & Lord Bro](xxx)
 
 ### Pack 4
 
--   [ ] G33 [Skat & Catcher vs. Lord Bro & Complx](xxx)
+-   [ ] G17 [Nerd Cruncher & Beans vs. Calvin & Complx](xxx)
+-   [ ] G21 [Catcher & Awod vs. Chck & Calvin](xxx)
+-   [ ] G22 [Hoobsher & Theo vs. Lord Bro & Calvin](xxx)
 -   [ ] G34 [Nerd Cruncher & Calvin vs. Hoobsher & Chck](xxx)
--   [ ] G36 [RetroFro & Dad vs. Beans & Theo](xxx)
--   [ ] G38 [Skat & Theo vs. Beans & FieldDay](xxx)
 -   [ ] G39 [Lord Bro & Awod vs. RetroFro & Jengaleng](xxx)
 -   [ ] G13 [Skat & Calvin vs. FieldDay & Complx](xxx)
 -   [ ] G14 [RetroFro & Complx vs. Hoobsher & Jengaleng](xxx)
@@ -75,6 +64,17 @@
 -   [x] G06 [Skat & FieldDay vs. Theo & Complx](SF Wins)
 -   [x] G07 [Beans & Awod vs. Skat & Dad](SD Wins)
 -   [x] G08 [Beans & Chck vs. Complx & Jengaleng](CJ Wins)
+
+### Pack 2 (Released)
+
+-   [x] G11 [Hoobsher & Jewish vs. Theo & Chck](TC Wins)
+-   [x] G09 [Skat & Complx vs. Calvin & Dad](SC Wins)
+-   [x] G10 [FieldDay & Awod vs. Dad & Jewish](DJ Wins)
+-   [x] G12 [Nerd Cruncher & Dad vs. Beans & Catcher](ND Wins)
+-   [x] G15 [Nerd Cruncher & Complx vs. Beans & Jewish](NC Wins)
+-   [x] G40 [Catcher & Jewish vs. Skat & RetroFro](SF Wins)
+-   [x] G35 [Lord Bro & Jewish vs. Calvin & Jengaleng](CJ Wins)
+-   [x] G37 [Complx & Jewish vs. Dad & Jengaleng](DJ Wins)
 
 ### Pack 6 (Released)
 
