@@ -4,24 +4,25 @@
 
 ### Scratch Pack
 
--   [x] G43 [Nerd Cruncher & Jewish vs. FieldDay & Calvin](NJ Wins)
-
 ## Active Packs
+
+## Scratches
+
+-   [S] G25 [Hoobsher & Complx vs. Theo & Jengaleng](xxx)
+
+### Pack 3
+
+-   [x] G18 [Chck & Dad vs. Nerd Cruncher & Jengaleng](CD Wins)
+-   [x] G19 [Jengaleng & Awod vs. Skat & Beans](SB Wins)
+-   [x] G23 [FieldDay & Lord Bro vs. Beans & RetroFro](RB Wins)
+-   [x] G36 [RetroFro & Dad vs. Beans & Theo](RD Wins)
+-   [x] G38 [Skat & Theo vs. Beans & FieldDay](ST Wins)
+-   [x] G26 [FieldDay & Jengaleng vs. Nerd Cruncher & Lord Bro](LN Wins)
+-   [x] G27 [Theo & FieldDay vs. Nerd Cruncher & Catcher](FT Wins)
 
 ### Completed Scratch
 
 ## Whole Season
-
-### Pack 3
-
--   [ ] G18 [Chck & Dad vs. Nerd Cruncher & Jengaleng](xxx)
--   [ ] G19 [Jengaleng & Awod vs. Skat & Beans](xxx)
--   [ ] G23 [FieldDay & Lord Bro vs. Beans & RetroFro](xxx)
--   [ ] G25 [Hoobsher & Complx vs. Theo & Jengaleng](xxx)
--   [ ] G33 [Skat & Catcher vs. Lord Bro & Complx](xxx)
--   [ ] G36 [RetroFro & Dad vs. Beans & Theo](xxx)
--   [ ] G38 [Skat & Theo vs. Beans & FieldDay](xxx)
--   [ ] G26 [FieldDay & Jengaleng vs. Nerd Cruncher & Lord Bro](xxx)
 
 ### Pack 4
 
@@ -36,7 +37,7 @@
 
 ### Pack 5
 
--   [ ] G27 [Theo & FieldDay vs. Nerd Cruncher & Catcher](xxx)
+-   [ ] G33 [Skat & Catcher vs. Lord Bro & Complx](xxx)
 -   [ ] G28 [RetroFro & Lord Bro vs. Nerd Cruncher & Chck](xxx)
 -   [ ] G30 [Theo & Dad vs. Chck & RetroFro](xxx)
 -   [ ] G32 [Catcher & RetroFro vs. Complx & Awod](xxx)
