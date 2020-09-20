@@ -3,7 +3,7 @@ console.clear();
 // series => matchs => teams => players
 
 // seed based rng
-let seed = 0;
+let seed = 2828;
 function rng() {
     const n = Math.sin(seed++) * 10000;
     return n - Math.floor(n);
@@ -174,8 +174,6 @@ const getDeviationScore = (players, matches) => {
         playerDeviationMap.set(key, { min, max, deviation });
     });
 
-    // console.log(JSON.stringify([...playerDeviationMap.entries()]));
-
     const min = Math.min(
         ...[...playerDeviationMap.values()].map((el) => el.min)
     );
@@ -187,7 +185,7 @@ const getDeviationScore = (players, matches) => {
     // );
 
     if (min === 0) {
-        return Infinity;
+        // return Infinity;
     }
     const deviationSum = deviations.reduce((acc, cur) => acc + cur, 0);
 
@@ -236,10 +234,10 @@ let bestSeason;
 let bestDeviationScore = Infinity;
 let bestSeasonSeed = 0;
 let startTime = Date.now();
-for (let i = 10000; i <= 20000; i++) {
+for (let i = 0; i <= 50000000; i++) {
     seed = i;
     let loopStartSeed = seed;
-    generateSeason(16, 20);
+    generateSeason(8, 20);
 
     if (
         currentDeviationScore < bestDeviationScore &&

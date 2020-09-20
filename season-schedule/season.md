@@ -1,83 +1,95 @@
-# Pack 1
+# QWERTY CLASH Season One Schedule
 
--   G01[Hoobsher & Calvin vs. Skat & Nerd Cruncher](...)
--   G02[Hoobsher & Dad vs. Catcher & Lord Bro](...)
--   G03[Skat & Jengaleng vs. RetroFro & Calvin](...)
--   G04[Nerd Cruncher & Theo vs. RetroFro & FieldDay](...)
--   G05[Theo & Catcher vs. Jengaleng & Jewish](...)
--   G06[Skat & FieldDay vs. Theo & Complx](...)
--   G07[Beans & Awod vs. Skat & Dad](...)
--   G08[Beans & Chck vs. Complx & Jengaleng](...)
+## Active Packs
 
-# Pack 2
+### Pack 1
 
--   G09[Skat & Complx vs. Calvin & Dad](...)
--   G10[FieldDay & Awod vs. Dad & Jewish](...)
--   G11[Hoobsher & Jewish vs. Theo & Chck](...)
--   G12[Nerd Cruncher & Dad vs. Beans & Catcher](...)
--   G13[Skat & Calvin vs. FieldDay & Complx](...)
--   G14[RetroFro & Complx vs. Hoobsher & Jengaleng](...)
--   G15[Nerd Cruncher & Complx vs. Beans & Jewish](...)
--   G16[Dad & Awod vs. Chck & Jengaleng](...)
+-   [ ] G01 [FCPXAVI & Kbfyi vs. Onbartledoo & BIG. SCOOPS.](...)
+-   [ ] G02 [FCPXAVI & Erikndoerr vs. Nerd Cruncher & SwackAtk](...)
+-   [ ] G03 [Onbartledoo & fieldday vs. Calvin & Kbfyi](...)
+-   [ ] G04 [BIG. SCOOPS. & VeShift vs. Calvin & david](...)
+-   [ ] G05 [VeShift & Nerd Cruncher vs. fieldday & TheBardmeister](...)
+-   [ ] G06 [Onbartledoo & david vs. VeShift & Graymarker](...)
+-   [ ] G07 [Amorales702 & Retrofro vs. Onbartledoo & Erikndoerr](...)
+-   [ ] G08 [Amorales702 & Skat vs. Graymarker & fieldday](...)
+-   [ ] G10 [david & Retrofro vs. Erikndoerr & TheBardmeister](...)
+-   [ ] G13 [FCPXAVI & TheBardmeister vs. VeShift & Skat](...)
+-   [ ] G14 [BIG. SCOOPS. & Amorales702 vs. Kbfyi & Graymarker](...)
+-   [ ] G17 [Erikndoerr & Retrofro vs. Skat & fieldday](...)
 
-# Pack 3
+## Results and Unreleased Packs
 
--   G17[Nerd Cruncher & Beans vs. Calvin & Complx](...)
--   G18[Chck & Dad vs. Nerd Cruncher & Jengaleng](...)
--   G19[Jengaleng & Awod vs. Skat & Beans](...)
--   G20[FieldDay & Dad vs. Calvin & Jewish](...)
--   G21[Catcher & Awod vs. Chck & Calvin](...)
--   G22[Hoobsher & Theo vs. Lord Bro & Calvin](...)
--   G23[FieldDay & Lord Bro vs. Beans & RetroFro](...)
--   G24[Hoobsher & Lord Bro vs. Theo & Jewish](...)
+### Pack 1
 
-# Pack 4
+-   [ ] G01 [FCPXAVI & Kbfyi vs. Onbartledoo & BIG. SCOOPS.](...)
+-   [ ] G02 [FCPXAVI & Erikndoerr vs. Nerd Cruncher & SwackAtk](...)
+-   [ ] G03 [Onbartledoo & fieldday vs. Calvin & Kbfyi](...)
+-   [ ] G04 [BIG. SCOOPS. & VeShift vs. Calvin & david](...)
+-   [ ] G05 [VeShift & Nerd Cruncher vs. fieldday & TheBardmeister](...)
+-   [ ] G06 [Onbartledoo & david vs. VeShift & Graymarker](...)
+-   [ ] G07 [Amorales702 & Retrofro vs. Onbartledoo & Erikndoerr](...)
+-   [ ] G08 [Amorales702 & Skat vs. Graymarker & fieldday](...)
+-   [ ] G10 [david & Retrofro vs. Erikndoerr & TheBardmeister](...)
+-   [ ] G13 [FCPXAVI & TheBardmeister vs. VeShift & Skat](...)
+-   [ ] G14 [BIG. SCOOPS. & Amorales702 vs. Kbfyi & Graymarker](...)
+-   [ ] G17 [Erikndoerr & Retrofro vs. Skat & fieldday](...)
 
--   G25[Hoobsher & Complx vs. Theo & Jengaleng](...)
--   G26[FieldDay & Jengaleng vs. Nerd Cruncher & Lord Bro](...)
--   G27[Theo & FieldDay vs. Nerd Cruncher & Catcher](...)
--   G28[RetroFro & Lord Bro vs. Nerd Cruncher & Chck](...)
--   G29[Chck & FieldDay vs. RetroFro & Jewish](...)
--   G30[Theo & Dad vs. Chck & RetroFro](...)
--   G31[Skat & Jewish vs. Catcher & Chck](...)
--   G32[Catcher & RetroFro vs. Complx & Awod](...)
+### Pack 2
 
-# Pack 5
+-   [ ] G11 [BIG. SCOOPS. & david vs. Onbartledoo & FCPXAVI](...)
+-   [ ] G20 [david & Erikndoerr vs. Kbfyi & TheBardmeister](...)
+-   [ ] G12 [Onbartledoo & SwackAtk vs. Nerd Cruncher & Kbfyi](...)
+-   [ ] G15 [BIG. SCOOPS. & Erikndoerr vs. Amorales702 & Nerd Cruncher](...)
+-   [ ] G16 [Onbartledoo & Kbfyi vs. david & Graymarker](...)
+-   [ ] G41 [FCPXAVI & Calvin vs. Amorales702 & Kbfyi](...)
+-   [ ] G18 [Skat & Erikndoerr vs. BIG. SCOOPS. & fieldday](...)
+-   [ ] G09 [Onbartledoo & Graymarker vs. Kbfyi & Erikndoerr](...)
+-   [ ] G23 [david & SwackAtk vs. Amorales702 & Calvin](...)
+-   [ ] G24 [FCPXAVI & SwackAtk vs. VeShift & TheBardmeister](...)
+-   [ ] G28 [Calvin & SwackAtk vs. BIG. SCOOPS. & Skat](...)
+-   [ ] G25 [FCPXAVI & Graymarker vs. VeShift & fieldday](...)
 
--   G33[Skat & Catcher vs. Lord Bro & Complx](...)
--   G34[Nerd Cruncher & Calvin vs. Hoobsher & Chck](...)
--   G35[Lord Bro & Jewish vs. Calvin & Jengaleng](...)
--   G36[RetroFro & Dad vs. Beans & Theo](...)
--   G37[Complx & Jewish vs. Dad & Jengaleng](...)
--   G38[Skat & Theo vs. Beans & FieldDay](...)
--   G39[Lord Bro & Awod vs. RetroFro & Jengaleng](...)
--   G40[Catcher & Jewish vs. Skat & RetroFro](...)
+### Pack 3
 
-# Pack 6
+-   [ ] G51 [VeShift & Calvin vs. Amorales702 & Erikndoerr](...)
+-   [ ] G26 [david & fieldday vs. BIG. SCOOPS. & SwackAtk](...)
+-   [ ] G27 [VeShift & david vs. BIG. SCOOPS. & Nerd Cruncher](...)
+-   [ ] G22 [FCPXAVI & VeShift vs. SwackAtk & Kbfyi](...)
+-   [ ] G29 [Skat & david vs. Calvin & TheBardmeister](...)
+-   [ ] G30 [VeShift & Erikndoerr vs. Skat & Calvin](...)
+-   [ ] G31 [Onbartledoo & TheBardmeister vs. Nerd Cruncher & Skat](...)
+-   [ ] G32 [Nerd Cruncher & Calvin vs. Graymarker & Retrofro](...)
+-   [ ] G33 [Onbartledoo & Nerd Cruncher vs. SwackAtk & Graymarker](...)
+-   [ ] G34 [BIG. SCOOPS. & Kbfyi vs. FCPXAVI & Skat](...)
+-   [ ] G35 [SwackAtk & TheBardmeister vs. Kbfyi & fieldday](...)
+-   [ ] G36 [Calvin & Erikndoerr vs. Amorales702 & VeShift](...)
 
--   G41[Hoobsher & RetroFro vs. Beans & Calvin](...)
--   G42[Hoobsher & FieldDay vs. Chck & Awod](...)
--   G43[Nerd Cruncher & Jewish vs. FieldDay & Calvin](...)
--   G44[Hoobsher & Catcher vs. Theo & Calvin](...)
--   G45[FieldDay & Jewish vs. Catcher & Jengaleng](...)
--   G46[Catcher & Complx vs. Nerd Cruncher & Awod](...)
--   G47[Nerd Cruncher & FieldDay vs. Skat & Hoobsher](...)
--   G48[Skat & Lord Bro vs. Catcher & Calvin](...)
+### Pack 4
 
-# Pack 7
+-   [ ] G37 [Graymarker & TheBardmeister vs. Erikndoerr & fieldday](...)
+-   [ ] G38 [Onbartledoo & VeShift vs. Amorales702 & david](...)
+-   [ ] G39 [SwackAtk & Retrofro vs. Calvin & fieldday](...)
+-   [ ] G40 [Nerd Cruncher & TheBardmeister vs. Onbartledoo & Calvin](...)
+-   [ ] G19 [fieldday & Retrofro vs. Onbartledoo & Amorales702](...)
+-   [ ] G42 [FCPXAVI & david vs. Skat & Retrofro](...)
+-   [ ] G43 [Calvin & Graymarker vs. FCPXAVI & fieldday](...)
+-   [ ] G44 [BIG. SCOOPS. & Graymarker vs. Amorales702 & TheBardmeister](...)
+-   [ ] G45 [BIG. SCOOPS. & TheBardmeister vs. david & Kbfyi](...)
+-   [ ] G46 [FCPXAVI & Nerd Cruncher vs. VeShift & Kbfyi](...)
+-   [ ] G48 [Nerd Cruncher & Graymarker vs. BIG. SCOOPS. & Retrofro](...)
+-   [ ] G49 [VeShift & Retrofro vs. Graymarker & Erikndoerr](...)
 
--   G49[Theo & Awod vs. Complx & Dad](...)
--   G50[Nerd Cruncher & RetroFro vs. Hoobsher & Awod](...)
--   G51[Theo & RetroFro vs. Beans & Dad](...)
--   G52[Lord Bro & Dad vs. Beans & Jengaleng](...)
--   G53[Hoobsher & Beans vs. Catcher & Dad](...)
--   G54[Catcher & FieldDay vs. RetroFro & Awod](...)
--   G55[Beans & Lord Bro vs. Awod & Jewish](...)
--   G56[Nerd Cruncher & Hoobsher vs. Chck & Jewish](...)
+### Pack 5
 
-# Pack 8
-
--   G57[Theo & Lord Bro vs. Skat & Awod](...)
--   G58[Skat & Chck vs. Lord Bro & Jengaleng](...)
--   G59[Chck & Complx vs. Calvin & Awod](...)
--   G60[Chck & Lord Bro vs. Beans & Complx](...)
+-   [ ] G47 [david & TheBardmeister vs. Nerd Cruncher & fieldday](...)
+-   [ ] G50 [BIG. SCOOPS. & Calvin vs. FCPXAVI & Retrofro](...)
+-   [ ] G21 [Nerd Cruncher & Retrofro vs. Skat & Kbfyi](...)
+-   [ ] G52 [SwackAtk & Erikndoerr vs. Amorales702 & fieldday](...)
+-   [ ] G53 [FCPXAVI & Amorales702 vs. Nerd Cruncher & Erikndoerr](...)
+-   [ ] G54 [Nerd Cruncher & david vs. Calvin & Retrofro](...)
+-   [ ] G55 [Amorales702 & SwackAtk vs. Retrofro & TheBardmeister](...)
+-   [ ] G56 [BIG. SCOOPS. & FCPXAVI vs. Skat & TheBardmeister](...)
+-   [ ] G57 [VeShift & SwackAtk vs. Onbartledoo & Retrofro](...)
+-   [ ] G58 [Onbartledoo & Skat vs. SwackAtk & fieldday](...)
+-   [ ] G59 [Skat & Graymarker vs. Kbfyi & Retrofro](...)
+-   [ ] G60 [Skat & SwackAtk vs. Amorales702 & Graymarker](...)
