@@ -1,8 +1,6 @@
 # QWERTY CLASH Season One Schedule
 
-## Active Packs
-
-### Pack 1
+## Pack 1
 
 -   [ ] G01 [FCPXAVI & Kbfyi vs. Onbartledoo & BIG. SCOOPS.](...)
 -   [ ] G02 [FCPXAVI & Erikndoerr vs. Nerd Cruncher & SwackAtk](...)
@@ -17,24 +15,7 @@
 -   [ ] G14 [BIG. SCOOPS. & Amorales702 vs. Kbfyi & Graymarker](...)
 -   [ ] G17 [Erikndoerr & Retrofro vs. Skat & fieldday](...)
 
-## Results and Unreleased Packs
-
-### Pack 1
-
--   [ ] G01 [FCPXAVI & Kbfyi vs. Onbartledoo & BIG. SCOOPS.](...)
--   [ ] G02 [FCPXAVI & Erikndoerr vs. Nerd Cruncher & SwackAtk](...)
--   [ ] G03 [Onbartledoo & fieldday vs. Calvin & Kbfyi](...)
--   [ ] G04 [BIG. SCOOPS. & VeShift vs. Calvin & david](...)
--   [ ] G05 [VeShift & Nerd Cruncher vs. fieldday & TheBardmeister](...)
--   [ ] G06 [Onbartledoo & david vs. VeShift & Graymarker](...)
--   [ ] G07 [Amorales702 & Retrofro vs. Onbartledoo & Erikndoerr](...)
--   [ ] G08 [Amorales702 & Skat vs. Graymarker & fieldday](...)
--   [ ] G10 [david & Retrofro vs. Erikndoerr & TheBardmeister](...)
--   [ ] G13 [FCPXAVI & TheBardmeister vs. VeShift & Skat](...)
--   [ ] G14 [BIG. SCOOPS. & Amorales702 vs. Kbfyi & Graymarker](...)
--   [ ] G17 [Erikndoerr & Retrofro vs. Skat & fieldday](...)
-
-### Pack 2
+## Pack 2
 
 -   [ ] G11 [BIG. SCOOPS. & david vs. Onbartledoo & FCPXAVI](...)
 -   [ ] G20 [david & Erikndoerr vs. Kbfyi & TheBardmeister](...)
@@ -49,7 +30,7 @@
 -   [ ] G28 [Calvin & SwackAtk vs. BIG. SCOOPS. & Skat](...)
 -   [ ] G25 [FCPXAVI & Graymarker vs. VeShift & fieldday](...)
 
-### Pack 3
+## Pack 3
 
 -   [ ] G51 [VeShift & Calvin vs. Amorales702 & Erikndoerr](...)
 -   [ ] G26 [david & fieldday vs. BIG. SCOOPS. & SwackAtk](...)
@@ -64,7 +45,7 @@
 -   [ ] G35 [SwackAtk & TheBardmeister vs. Kbfyi & fieldday](...)
 -   [ ] G36 [Calvin & Erikndoerr vs. Amorales702 & VeShift](...)
 
-### Pack 4
+## Pack 4
 
 -   [ ] G37 [Graymarker & TheBardmeister vs. Erikndoerr & fieldday](...)
 -   [ ] G38 [Onbartledoo & VeShift vs. Amorales702 & david](...)
@@ -79,7 +60,7 @@
 -   [ ] G48 [Nerd Cruncher & Graymarker vs. BIG. SCOOPS. & Retrofro](...)
 -   [ ] G49 [VeShift & Retrofro vs. Graymarker & Erikndoerr](...)
 
-### Pack 5
+## Pack 5
 
 -   [ ] G47 [david & TheBardmeister vs. Nerd Cruncher & fieldday](...)
 -   [ ] G50 [BIG. SCOOPS. & Calvin vs. FCPXAVI & Retrofro](...)
