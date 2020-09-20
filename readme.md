@@ -1,4 +1,4 @@
-# Diet League Season Schedule Generator
+# Qwerty Clash Season Schedule Generator
 
 Season Working Scheudle [Link](https://github.com/sc0ttr0berts0n/qwerty-clash-schedule-generator/blob/master/season-schedule/season-working.md)
 
