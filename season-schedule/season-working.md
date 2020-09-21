@@ -4,18 +4,18 @@
 
 ### Pack 1
 
--   [ ] G01 [FCPXAVI & Kbfyi vs. Ohbartledoo & BIG. SCOOPS.](...)
 -   [ ] G07 [Amorales702 & Retrofro vs. Ohbartledoo & Erikndoerr](...)
 -   [ ] G08 [Amorales702 & Skat vs. Graymarker & fieldday](...)
--   [ ] G14 [BIG. SCOOPS. & Amorales702 vs. Kbfyi & Graymarker](...)
 -   [ ] G03 [Ohbartledoo & fieldday vs. Calvin & Kbfyi](...)
--   [ ] G04 [BIG. SCOOPS. & VeShift vs. Calvin & david](...)
 -   [ ] G02 [FCPXAVI & Erikndoerr vs. Nerd Cruncher & SwackAtk](...)
+-   [ ] G17 [Erikndoerr & Retrofro vs. Skat & fieldday](...)
+-   [ ] G10 [david & Retrofro vs. Erikndoerr & TheBardmeister](...)
 -   [ ] G05 [VeShift & Nerd Cruncher vs. fieldday & TheBardmeister](...)
 -   [ ] G06 [Ohbartledoo & david vs. VeShift & Graymarker](...)
--   [ ] G10 [david & Retrofro vs. Erikndoerr & TheBardmeister](...)
 -   [ ] G13 [FCPXAVI & TheBardmeister vs. VeShift & Skat](...)
--   [ ] G17 [Erikndoerr & Retrofro vs. Skat & fieldday](...)
+-   [ ] G01 [FCPXAVI & Kbfyi vs. Ohbartledoo & BIG. SCOOPS.](...)
+-   [ ] G14 [BIG. SCOOPS. & Amorales702 vs. Kbfyi & Graymarker](...)
+-   [ ] G04 [BIG. SCOOPS. & VeShift vs. Calvin & david](...)
 
 ## Results and Unreleased Packs
 
