@@ -11,12 +11,12 @@
 -   [x] G17 [Erikndoerr & Retrofro vs. Skat & fieldday](ER Wins)
 -   [x] G10 [david & Retrofro vs. Erikndoerr & TheBardmeister](ET Wins)
 
--   [ ] G14 [Kelebrae & Amorales702 vs. Kbfyi & Graymarker](...)
--   [ ] G05 [VeShift & Nerd Cruncher vs. fieldday & TheBardmeister](...)
--   [ ] G06 [Ohbartledoo & david vs. VeShift & Graymarker](...)
--   [ ] G13 [FCPXAVI & TheBardmeister vs. VeShift & Skat](...)
--   [ ] G01 [FCPXAVI & Kbfyi vs. Ohbartledoo & Kelebrae](...)
--   [ ] G04 [Kelebrae & VeShift vs. Calvin & david](...)
+-   [x] G05 [VeShift & Nerd Cruncher vs. fieldday & TheBardmeister](FB Wins)
+-   [x] G06 [Ohbartledoo & david vs. VeShift & Graymarker](VG Wins)
+-   [x] G13 [FCPXAVI & TheBardmeister vs. VeShift & Skat](FB Wins)
+-   [x] G14 [Kelebrae & Amorales702 vs. Kbfyi & Graymarker](KG wins)
+-   [x] G01 [FCPXAVI & Kbfyi vs. Ohbartledoo & Kelebrae](FK Wins)
+-   [x] G04 [Kelebrae & VeShift vs. Calvin & david](CD Wins)
 
 ## Results and Unreleased Packs
 
@@ -28,13 +28,12 @@
 -   [x] G02 [FCPXAVI & Erikndoerr vs. Nerd Cruncher & SwackAtk](NS Wins)
 -   [x] G17 [Erikndoerr & Retrofro vs. Skat & fieldday](ER Wins)
 -   [x] G10 [david & Retrofro vs. Erikndoerr & TheBardmeister](ET Wins)
-
--   [ ] G05 [VeShift & Nerd Cruncher vs. fieldday & TheBardmeister](...)
--   [ ] G06 [Ohbartledoo & david vs. VeShift & Graymarker](...)
--   [ ] G13 [FCPXAVI & TheBardmeister vs. VeShift & Skat](...)
--   [ ] G01 [FCPXAVI & Kbfyi vs. Ohbartledoo & Kelebrae](...)
--   [ ] G14 [Kelebrae & Amorales702 vs. Kbfyi & Graymarker](...)
--   [ ] G04 [Kelebrae & VeShift vs. Calvin & david](...)
+-   [x] G05 [VeShift & Nerd Cruncher vs. fieldday & TheBardmeister](FB Wins)
+-   [x] G06 [Ohbartledoo & david vs. VeShift & Graymarker](VG Wins)
+-   [x] G13 [FCPXAVI & TheBardmeister vs. VeShift & Skat](FB Wins)
+-   [x] G14 [Kelebrae & Amorales702 vs. Kbfyi & Graymarker](KG wins)
+-   [x] G01 [FCPXAVI & Kbfyi vs. Ohbartledoo & Kelebrae](FK Wins)
+-   [x] G04 [Kelebrae & VeShift vs. Calvin & david](CD Wins)
 
 ### Pack 2
 
@@ -68,18 +67,20 @@
 -   [ ] G35 [SwackAtk & TheBardmeister vs. Kbfyi & fieldday](...)
 -   [ ] G36 [Calvin & Erikndoerr vs. Amorales702 & VeShift](...)
 
-### Pack 4
-
--   [ ] G38 [Ohbartledoo & VeShift vs. Amorales702 & david](...)
--   [ ] G19 [fieldday & Retrofro vs. Ohbartledoo & Amorales702](...)
--   [ ] G39 [SwackAtk & Retrofro vs. Calvin & fieldday](...)
--   [ ] G40 [Nerd Cruncher & TheBardmeister vs. Ohbartledoo & Calvin](...)
--   [ ] G43 [Calvin & Graymarker vs. FCPXAVI & fieldday](...)
--   [ ] G50 [Kelebrae & Calvin vs. FCPXAVI & Retrofro](...)
+### Pack 4A
 
 -   [ ] G44 [Kelebrae & Graymarker vs. Amorales702 & TheBardmeister](...)
 -   [ ] G45 [Kelebrae & TheBardmeister vs. david & Kbfyi](...)
 -   [ ] G42 [FCPXAVI & david vs. Skat & Retrofro](...)
+-   [ ] G39 [SwackAtk & Retrofro vs. Calvin & fieldday](...)
+-   [ ] G43 [Calvin & Graymarker vs. FCPXAVI & fieldday](...)
+-   [ ] G50 [Kelebrae & Calvin vs. FCPXAVI & Retrofro](...)
+
+### Pack 4B
+
+-   [ ] G38 [Ohbartledoo & VeShift vs. Amorales702 & david](...)
+-   [ ] G19 [fieldday & Retrofro vs. Ohbartledoo & Amorales702](...)
+-   [ ] G40 [Nerd Cruncher & TheBardmeister vs. Ohbartledoo & Calvin](...)
 -   [ ] G46 [FCPXAVI & Nerd Cruncher vs. VeShift & Kbfyi](...)
 -   [ ] G48 [Nerd Cruncher & Graymarker vs. Kelebrae & Retrofro](...)
 -   [ ] G47 [david & TheBardmeister vs. Nerd Cruncher & fieldday](...)

@@ -6,8 +6,9 @@
 
 ## erikndoerr
 
--   **only** monday
--   No monday 9/28
+-   Available monday
+-   Unavailable Saturday
+-   Unavailable monday 9/28
 
 ## Calvin
 
@@ -17,3 +18,7 @@
 
 -   Available 9/26, 9/28, 10/3
 -   Unavailable 10/5, 10/10
+
+## VeShift
+
+-   Unavailable 10/3
