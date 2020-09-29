@@ -69,12 +69,12 @@
 
 ### Pack 4A
 
+-   [ ] G39 [SwackAtk & Retrofro vs. Calvin & fieldday](...)
+-   [ ] G29 [Skat & david vs. Calvin & TheBardmeister](...)
 -   [ ] G44 [Kelebrae & Graymarker vs. Amorales702 & TheBardmeister](...)
 -   [ ] G45 [Kelebrae & TheBardmeister vs. david & Kbfyi](...)
--   [ ] G39 [SwackAtk & Retrofro vs. Calvin & fieldday](...)
 -   [ ] G26 [david & fieldday vs. Kelebrae & SwackAtk](...)
 -   [ ] G27 [VeShift & david vs. Kelebrae & Nerd Cruncher](...)
--   [ ] G29 [Skat & david vs. Calvin & TheBardmeister](...)
 
 ### Pack 4B
 

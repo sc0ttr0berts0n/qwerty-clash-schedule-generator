@@ -22,3 +22,7 @@
 ## VeShift
 
 -   Unavailable 10/3
+
+## NerdCruncher
+
+-   Prefers Mondays
