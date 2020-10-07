@@ -21,6 +21,10 @@
 
 -   Prefers Mondays
 
+## Fieldday
+
+-   Unavailable 10/10
+
 ## VeShift
 
 ## Retrofro
